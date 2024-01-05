@@ -12,7 +12,7 @@ The purpose of this week's task is to perform a study to tune a series of parame
 | Normalization       | True             | Scaler                    |
 | Codebook            | 160              | -                         |
 | Classifier          | SVM              | Histogram intersection    |
-| Dimensionality      | Non              | -                         | 
+| Dimensionality      | None              | -                         | 
 
 
 The test split has been evaluated with this configuration, yielding the following results:
