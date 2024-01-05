@@ -21,6 +21,7 @@ The test split has been evaluated with this configuration, yielding the followin
 | :---       |    :----:   |    :----:   |    :----:   |        ---: |
 | Test       | 0.8624      | 0.8708      | 0.8660      | 0.8680      |
 
+*The notebook might not load at the first try due to the images weight, please be patient.
 
 ## Task2 work
 
