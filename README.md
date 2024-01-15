@@ -31,7 +31,7 @@ The purpose of this week's task is to learn the techniques for category classifi
 | End-to-end whole image |     0.6072       | 
 | Deep features + SVM    |     0.4138       | 
 | End-to-end patches     |     0.5328       | 
-| Deep features + BoVW   |     0.6481       |
+| Deep features + BoVW   |     **0.6481**       |
 
 
 ## Task3 work
