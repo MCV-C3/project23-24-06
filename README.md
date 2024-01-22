@@ -35,6 +35,14 @@ The purpose of this week's task is to learn the techniques for category classifi
 
 
 ## Task3 work
+The purpose of this week's task is to learn the techniques for using a already existent CNN with pretrained wheights and fine tunning it. For this reason, we adapt the output and unfreeze some layers so the model can be retrained to our necessities. In the second part, we need to find the best hyper parameter configuration to increase the CNN's performance even further and study what happens when removing different blocks to reduce the CNN's dimensionality.
+
+| Test        |     Dataset     |  Accuracy  |  Loss  |
+| :---        |    :----:       |  :------:  | :----: |
+| Baseline    |     Large       |  0.9418    | 0.1871 |
+| Baseline    |     Small       |  0.9095    | 0.3980 |
+| Best model  |     Small       |  0.9542    | 0.1502 |
+
 
 ## Task4 work
 
