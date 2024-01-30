@@ -45,4 +45,10 @@ The purpose of this week's task is to learn the techniques for using a already e
 
 
 ## Task4 work
+For the last week, the objective has been to create a CNN from scratch and obtain the highest accuracy while using the fewer parameters. We have created a baseline model and have performed an exhaustive analysis on how every parameter affected the performance of the baseline model. At the end, we have obtained 2 models were the first one consists on the model with the best ratio (accuracy/(# parameters)/100000) and the second one is the model with the best accuracy. The obtained results are shown next:
 
+| Test             |     Accuracy     |  # Parameters  |  Ratio  |
+| :---             |    :----:        |  :------:      | :----:  |
+| Baseline         |     0.5610       |  94152         | 0.6002  |
+| Best accuracy    |     0.8021       |  41820         | 1.918   |
+| Best model       |     0.7645       |  17752         | 0.7645  |
