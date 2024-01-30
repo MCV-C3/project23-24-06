@@ -51,4 +51,4 @@ For the last week, the objective has been to create a CNN from scratch and obtai
 | :---             |    :----:        |  :------:      | :----:  |
 | Baseline         |     0.5610       |  94152         | 0.6002  |
 | Best accuracy    |     0.8021       |  41820         | 1.918   |
-| Best model       |     0.7645       |  17752         | 0.7645  |
+| Best model       |     0.7645       |  17752         | 4.3069  |
